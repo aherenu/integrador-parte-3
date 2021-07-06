@@ -1,0 +1,40 @@
+ul{
+     list-style: none;
+     padding: 0%;
+ }
+ 
+ ul li a{
+     text-decoration: none;
+     color: black;
+ }
+ 
+ main{
+     padding: 126px 0px;
+ }
+ 
+ main section{
+     height: 1000%;
+     width: 100%;
+ }
+ section{
+     background-image: url('img/drone.jpg');
+     background-repeat: no-repeat;
+     background-position: center;
+ }
+
+ 
+ h1{
+     font-family:'Baloo Tammudu 2', cursive;
+     margin-top: 0%;
+     margin-bottom: 0%;
+     height: 60px;
+ }
+ 
+ p {
+     font-family:'Baloo Tammudu 2', cursive;
+ }
+
+ img {
+     height: 1000%;
+     width: 100%;
+ }
